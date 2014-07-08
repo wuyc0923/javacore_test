@@ -18,7 +18,7 @@ import java.net.UnknownHostException;
 import com.core.util.FileUtils;
 
 /**
- * 类Client.java的实现描述：TODO 类实现描述
+ * 类Client.java的实现描述： Client TODO 类实现描述
  * 
  * @author yuci.wyc 2014年6月17日 上午10:43:18
  */
