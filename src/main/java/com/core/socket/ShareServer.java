@@ -19,7 +19,7 @@ import java.util.Calendar;
 import java.util.LinkedList;
 
 /**
- * 类share.java的实现描述：TODO 类实现描述
+ * 类share.java的实现描述：121212
  * 
  * @author yuci.wyc 2014年6月17日 上午11:22:14
  */
