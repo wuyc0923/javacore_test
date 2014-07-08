@@ -15,7 +15,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * 类MultiUser.java的实现描述：TODO 类实现描述
+ * 类MultiUser.java的实现描述：111111
  * 
  * @author yuci.wyc 2014年6月17日 上午11:06:21
  */
