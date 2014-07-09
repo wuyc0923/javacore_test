@@ -14,8 +14,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 类ScheduledExecutorServiceTest.java的实现描述：TODO 类实现描述
- * 
+ * 类ScheduledExecutorServiceTest.java的实现描述：线程类 ScheduledExecutorService 分支 0708
  * @author yuci.wyc 2014年7月9日 上午10:04:19
  */
 public class ScheduledExecutorServiceTest {
